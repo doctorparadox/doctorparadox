@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doctorparadox
-- 👀 I’m interested in the convergence of code and content, knowledge work, GTD, structured data, Python, NLP, conversational commerce...
-- 🌱 I’m currently learning data analytics, NLTK, NumPy, pandas, Flask, Pelican, MongoDB, PostgreSQL, systems thinking, model thinking
-- 💞️ I’m looking to collaborate on interactive non-fiction, public data analysis, data journalism, bots
+- 👀 I’m interested in the convergence of code and content, data publishing/spreadsheet publishing, knowledge work, GTD, structured data, civic data, Python, NLP, conversational commerce...
+- 🌱 I’m currently learning PKM, data analytics, NLTK, NumPy, pandas, Flask, Pelican, MongoDB, PostgreSQL, systems thinking, model thinking
+- 💞️ I’m looking to collaborate on Obsidian/second brain, historical NLP, interactive non-fiction, public data analysis, data journalism, bots
 - 📫 How to reach me: barb AT doctorparadox DOT net
 
 <!---
